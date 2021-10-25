@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="logout">Logout</string>
+    <string name="add_note">Add Note</string>
+    <string name="write_here">Write here...</string>
+    <string name="save">Save</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
