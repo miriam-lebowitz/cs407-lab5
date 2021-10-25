@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        String usernameKey = "username";
+        String usernameKey = "username";
 
         SharedPreferences sharedPreferences = getSharedPreferences("lab5Username", Context.MODE_PRIVATE);
 
